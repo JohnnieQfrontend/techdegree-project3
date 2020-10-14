@@ -18,7 +18,7 @@ header {
   display: flex;
   flex-direction: column;
   text-align: center;
-  background: #0D3D67;
+  background: #0d5d67;
   height: 6em;
 }
 
@@ -42,15 +42,15 @@ h2{
   font-size: 1.5em;
   margin: 0 auto;
   padding: 20px;
-  color: #0D3D67;
+  color: #0d5d67;
 }
 
 .line{
 height: 10px;
 margin:15px auto;
 padding: 0px 20px;
-border-top:5px solid #0D3D67;
-border-bottom:1px solid #0D3D67;
+border-top:5px solid #0d5d67;
+border-bottom:1px solid #0d5d67;
 background:white;
 max-width: 500px;
 }
@@ -147,7 +147,7 @@ legend{
   padding-top: 20px;
   font-size: 1.4em;
   font-weight: bold;
-  color: #0D3D67;
+  color: #0d5d67;
 }
 
 #button{
@@ -156,7 +156,7 @@ padding: 10px;
 color: white;
 font-weight: bold;
 width: 80%;
-background-color: #0D3D67;
+background-color: #0d5d67;
 border-radius: 10px;
 box-shadow: 0 0 5px -2px #0D3D67;
 display: block;
